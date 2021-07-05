@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dr-bach
 - 👀 I’m interested in medical physics, artificial intelligence, photography and more
-- 🌱 I’m currently learning (or call it experimenting) ML.NET
+- 🌱 I’m currently learning ML.NET (or call it experimenting)
 - 💞️ I’m looking to collaborate on Eclipse Scripting API (ESAPI)
 - 📫 How to reach me: dr.markus.bach@icloud.com
 
