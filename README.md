@@ -2,7 +2,7 @@
 - 👀 I’m interested in medical physics, artificial intelligence, photography and more
 - 🌱 I’m currently learning ML.NET (or you may call it experimenting)
 - 💞️ I’m looking for collaborations on Eclipse Scripting API (ESAPI)
-- 📫 How to reach me: dr.markus.bach@icloud.com
+- 📫 How to reach me: dr.markus.bach@icloud.com or www.markusbach.com
 
 <!---
 dr-bach/dr-bach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
