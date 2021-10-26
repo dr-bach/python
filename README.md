@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dr-bach
 - 👀 I’m interested in medical physics, artificial intelligence, photography and more
 - 🌱 I’m currently using ML.NET to implement AI in risk analysis, process optimization and alike
-- 💞️ I’m looking for collaborations on Eclipse Scripting API (ESAPI)
+- 💞️ I’m looking for collaborations on ESAPI (Eclipse Scripting API)
 - 📫 How to reach me: dr.markus.bach@icloud.com or www.markusbach.com
 
 <!---
